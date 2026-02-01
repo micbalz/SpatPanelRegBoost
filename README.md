@@ -1,6 +1,6 @@
 # Gradient Boosting for Spatial Panel Models with Random and Fixed Effects
 
-This repository provides access to three-step feasible model-based gradient boosting for spatial regression models with autoregressive disturbances.
+This repository provides access to feasible model-based gradient boosting for spatial panel models with random and fixed effects.
 It includes:  
 
 - Helper functions for model-based gradient boosting   
