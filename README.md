@@ -11,7 +11,7 @@ The repository serves as a foundation for replication.
 
 ## Technical Details  
 
-For in-depth derivations and explanations of model-based gradient boosting for spatial regression models with autoregressive disturbances, refer to: 
+For in-depth derivations and explanations of model-based gradient boosting for spatial panel models with random and fixed effects, refer to: 
 
 tba.
 
