@@ -221,7 +221,7 @@ names(gls_fix) = colnames(Z[,-1])
 
 ### (3) Model-based gradient boosting (LTB)
 # Generate folds 
-flds = cvspat(n, r, Y, B = 10, type = "random", map = NULL)
+flds = cvspat(n, r, Y, B = 6, type = "lto", map = NULL)
 
 # (3.1) Model-based gradient boosting (Random)
 omega_sqrt_re = chol(omega_re)
